@@ -1,4 +1,6 @@
 # EX-11-Implement-Elliptic-curve-Cryptography
+### REG NO: 2212223240012
+### NAME : ARAVINDAN D
 ## AIM:
 
 To implement the Elliptic curve Cryptography
@@ -109,7 +111,8 @@ int main()
 ```
 ## OUTPUT:
 
-![cryp exp11](https://github.com/user-attachments/assets/f9c1cccf-eae2-4cec-90a9-20485b2aea0f)
+![WhatsApp Image 2024-10-23 at 15 48 27_a7a9e23a](https://github.com/user-attachments/assets/ec169a37-0d4e-4037-92c5-7e2e823e9c9d)
+
 
 
 ## RESULT:
